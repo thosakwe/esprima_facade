@@ -1,0 +1,11 @@
+author: "Tobe O <thosakwe@gmail.com>"
+description: "Dart esprima FACADE"
+homepage: "https://github.com/thosakwe/esprima_facade.git"
+name: "esprima_facade"
+version: "1.0.0"
+dependencies: 
+  estree_facade: "^1.0.0"
+  func: "^0.1.0"
+  js: "^0.6.1"
+dev_dependencies: 
+  browser: "^0.10.0+2"
